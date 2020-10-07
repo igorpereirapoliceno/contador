@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+//Create a counte
+
 function Contador() {
     const [count, setCount] = useState(0);
 
